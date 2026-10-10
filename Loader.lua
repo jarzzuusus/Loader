@@ -1,4 +1,4 @@
-﻿local API = "https://jarz-api.jarzzhub.workers.dev"
+local API = "https://jarz-api.jarzzhub.workers.dev"
 
 local HttpService = game:GetService("HttpService")
 local request = (syn and syn.request) or (http and http.request) or http_request or request
